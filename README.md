@@ -1,13 +1,17 @@
+<div align="center">
+
 # 🤩 Awesome-Android-Apks
 
 🩵 A curated collection of 80+ Android APKs I’ve discovered over time — apps that genuinely made my life easier.
 
 Sharing this with the world in the hope that anyone curious about software and productivity will find something valuable here. I believe anyone interested in software will absolutely enjoy browsing this repo.
 
-> [!Note]
-> If you find this repo valuable, please give it a ⭐ and share it with others.
+</div>
 
 <img src="./banner.jpg" height="400px" width="100%" />
+
+> [!Note]
+> If you find this repo valuable, please give it a ⭐ and share it with others.
 
 ## 💜 My favorite apps I use daily
 
