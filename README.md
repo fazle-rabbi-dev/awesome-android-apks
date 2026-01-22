@@ -723,7 +723,8 @@ Sharing this with the world in the hope that anyone curious about software and p
             <td><strong>Termux</strong></td>
             <td>A Linux‑based terminal emulator for Android. It offers a terminal UI similar to Linux. Really amazing for programmers.<br><br>You can use/run: Node.js, Next.js apps, Python, Java, C, shell scripts, Git, etc.</td>
             <td><a href="https://f-droid.org/en/packages/com.termux/" target="_blank">F-Droid Link</a></td>
-            <td>I used Termux, Acode, and Eruda (console for the browser) on my Android phone to learn MERN‑stack web development in 2022. I developed apps from 2022‑2024 on my phone.</td>
+            <td>I used Termux, Acode, and <a href="https://github.com/liriliri/eruda" target="_blank" rel="noopener noreferrer">Eruda</a>
+ (console for the browser) on my Android phone to learn MERN‑stack web development in 2022. I developed apps from 2022‑2024 on my phone.</td>
         </tr>
         <tr>
             <td><strong>Acode</strong></td>
