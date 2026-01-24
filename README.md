@@ -29,7 +29,8 @@ Sharing this with the world in the hope that anyone curious about software and p
 - MJ Pdf
 - Hail & Icebox
 - Caffeine
-- Lightning
+- Lightning (Browser)
+- 📶 [Network Switch](https://github.com/aunchagaonkar/NetworkSwitch)
 
 <details>
   <summary>😎 <code>Click to view screenshot demo of my usage</code> </summary>
