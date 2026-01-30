@@ -119,6 +119,8 @@ Sharing this with the world in the hope that anyone curious about software and p
 - [Texpand](https://play.google.com/store/apps/details?id=com.isaiasmatewos.texpand&hl=en_SG) - Another crazy time‑saver tool. Allows you to create text snippets with a shortcut name and reuse them in any input field without typing that text again. E.g.: shortcut: `ty`; value: `thank you`. In an input field: if I type `ty`, then `thank you` is pasted automatically.
 - [Screen Veil](https://play.google.com/store/apps/details?id=com.screenveil.app&hl=en_SG) 💖 - Lets you turn off your screen without locking it. Helpful when watching YouTube or listening to podcasts but don't want to lock the screen.
 
+- [Draw Anywhere](https://github.com/shezik/DrawAnywhere) - Let's you draw anywhere on the screen. Helpful to take screenshot that needs annotation.
+
 <p><a href="#table-of-contents">↑ Back to Top</a></p>
 
 ## 📝 Notes
@@ -155,6 +157,8 @@ Sharing this with the world in the hope that anyone curious about software and p
 - [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker&hl=en_SG) - It's a really helpful tool. A must‑have app. It allows you to create shortcuts to various Android items (apps, settings, phone, contacts, etc.) and place them on the home screen to quickly perform actions.
 - [Notification Shortcuts](https://s3.dlandroid.com/apps/Notification-Shortcuts[dlandroid.com].apk) - This might give you a premium experience on your Android phone. Read carefully: by using this app, you can create shortcuts in your notification panel. You can create up to 3 rows, and on each row, you can add up to 12 items. An item can be an app, an app list, a shortcut, a settings toggle, and especially: **you can select "Shortcut" > "Shortcut Maker app" and then create any shortcut you want** 🔥 Allows custom icons for shortcuts. `To customize icons, use Iconify. The crazy thing: it is high‑performance, won't affect performance because it has no active background activity, and does not use accessibility services.`
 - [Touch the Notch](https://play.google.com/store/apps/details?id=com.notch.touch&hl=en_SG) - Allows you to enable a panel on the status bar. When you tap on the notch area or the right/left side area of the status bar, the panel will display. The panel contains only apps.
+
+- [Termux Terminal Widget - (Not the APK that you have already explored!)](https://f-droid.org/en/packages/com.termux.widget/) - Termux Terminal Widget is a widget that displays output of a shell command. **You can display a command/script output on homescreen.** Like: weather info, quote, etc. Actually any script output. `It can be your nodejs script/python script/any script output`
 
 <p><a href="#table-of-contents">↑ Back to Top</a></p>
 
